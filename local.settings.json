@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "CosmosDbConnection": "",
+    "FUNCTIONS_WORKER_RUNTIME": "java"
+  }
+}
